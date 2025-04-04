@@ -32,7 +32,7 @@
         echo '<br>';
         echo $lily->get_name();
         echo '<br>';
-        echo $lily->get_name();
+        echo $lily->get_color();
     
     ?>
 </body>
