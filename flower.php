@@ -24,10 +24,15 @@
         }
         }
         $rose=new Flower('Rose','Red');
+        $lily=new Flower('Lily','White');
     
         echo $rose->get_name();
         echo '<br>';
         echo $rose->get_color();
+        echo '<br>';
+        echo $lily->get_name();
+        echo '<br>';
+        echo $lily->get_name();
     
     ?>
 </body>
